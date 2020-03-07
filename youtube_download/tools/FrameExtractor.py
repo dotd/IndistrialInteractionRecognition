@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 # image operation
 import cv2
 
+
 class FrameExtractor():
     '''
     Class used for extracting frames from a video file.
