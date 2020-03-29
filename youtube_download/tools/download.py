@@ -1,5 +1,5 @@
 from pytube import YouTube
-from dot_utils.files.FileUtils import load_string
+from youtube_download.Utils import load_string
 # misc
 import os
 import shutil
