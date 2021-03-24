@@ -324,7 +324,7 @@ readchar==2.0.1
 redis==3.3.8
 requests==2.22.0
 rope==0.14.0
-rsa==3.4.2
+rsa==4.1
 ruamel-yaml==0.15.46
 s3transfer==0.1.13
 safelife==1.0
